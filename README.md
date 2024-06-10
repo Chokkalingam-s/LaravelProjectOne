@@ -25,7 +25,7 @@ This project is a basic Laravel CRUD (Create, Read, Update, Delete) application 
 ## Technologies
 
 - **Backend:** Laravel 11.x
-- **Frontend:** Blade, Tailwind CSS
+- **Frontend:** Blade,Bootstrap 5.O, CSS
 - **Database:** MySQL
 - **Other:** Composer, NPM
 
