@@ -141,8 +141,8 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 
 - **Name:** Chokkalingam S
-- **Email:** [your-email@example.com](mailto:chok22017.it@rmkec.ac.in)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/chokkalingam2005/)
+- **Email:** [chok22017.it@rmkec.ac.in](mailto:chok22017.it@rmkec.ac.in)
+- **LinkedIn:** [Chokkalingam LinkedInProfile ](https://www.linkedin.com/in/chokkalingam2005/)
 
   
 
